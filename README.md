@@ -4,4 +4,3 @@
  [![.github/workflows/unittesting.yml](https://github.com/prani2298/tic-tac-toe-mini-project/actions/workflows/unittesting.yml/badge.svg)](https://github.com/prani2298/tic-tac-toe-mini-project/actions/workflows/unittesting.yml)
  [![Valgrind](https://github.com/prani2298/tic-tac-toe-mini-project/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/prani2298/tic-tac-toe-mini-project/actions/workflows/Valgrind.yml)
  https://www.code-inspector.com/project/28108/score/svg
- https://www.code-inspector.com/project/28108/status/svg
