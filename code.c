@@ -110,3 +110,4 @@
         printf(" %c | %c | %c \n", tic[7], tic[8], tic[9]);
         printf("   |   |   \n\n");
     }
+
