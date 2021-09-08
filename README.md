@@ -1,5 +1,4 @@
 # step-in-mini-project
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1f744678a82c47f8a1d45e230169b8cd)](https://app.codacy.com/gh/prani2298/tic-tac-toe-mini-project?utm_source=github.com&utm_medium=referral&utm_content=prani2298/tic-tac-toe-mini-project&utm_campaign=Badge_Grade_Settings)
 [![CI](https://github.com/prani2298/tic-tac-toe-mini-project/actions/workflows/build.yml/badge.svg)](https://github.com/prani2298/tic-tac-toe-mini-project/actions/workflows/build.yml)
 [![cppcheck-action](https://github.com/prani2298/tic-tac-toe-mini-project/actions/workflows/cpp.yml/badge.svg)](https://github.com/prani2298/tic-tac-toe-mini-project/actions/workflows/cpp.yml)
  [![.github/workflows/unittesting.yml](https://github.com/prani2298/tic-tac-toe-mini-project/actions/workflows/unittesting.yml/badge.svg)](https://github.com/prani2298/tic-tac-toe-mini-project/actions/workflows/unittesting.yml)
